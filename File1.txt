@@ -7,3 +7,5 @@ commit test
 789.
 
 Add Line
+
+Новая строка!
